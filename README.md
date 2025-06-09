@@ -1,6 +1,6 @@
 # 📊 Netflix Movies and TV Shows Analysis with Power BI
 
-This project is a beginner-friendly Power BI analysis of Netflix Movies and TV Shows data. It was created to demonstrate skills in data cleaning, transformation, and visualization.
+This project is a Power BI analysis of Netflix Movies and TV Shows data. It was created to demonstrate skills in data cleaning, transformation, and visualization.
 
 ## 🔍 Project Overview
 
